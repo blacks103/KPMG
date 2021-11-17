@@ -1,2 +1,2 @@
 # KPMG
-KPMG intejú feladat
+KPMG interjú feladat
